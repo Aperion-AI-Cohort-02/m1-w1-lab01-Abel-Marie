@@ -1,0 +1,19 @@
+# --- Instructor-only materials: NOT distributed to students ---
+# Slides and demo notebooks stay local; only the lab itself is shared.
+*.pptx
+*.ppt
+*.ipynb
+.ipynb_checkpoints/
+*.SAMPLE.docx
+
+# --- Python noise ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Editor / OS noise ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
