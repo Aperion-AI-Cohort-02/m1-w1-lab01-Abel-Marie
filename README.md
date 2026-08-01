@@ -45,7 +45,7 @@ Put `AperionAI` somewhere you will find it again — your home folder, Documents
 
 ### 1.2 Copy your repo's address
 
-1. On this repo's page on GitHub, click the green **`< > Code`** button.
+1. On this repo's page on GitHub, click the green **`Accept Assignment`** button.
 2. Make sure the **HTTPS** tab is selected.
 3. Click the 📋 copy icon next to the address.
 
