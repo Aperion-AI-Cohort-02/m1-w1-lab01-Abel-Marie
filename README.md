@@ -49,7 +49,7 @@ Put `AperionAI` somewhere you will find it again — your home folder, Documents
 2. Make sure the **HTTPS** tab is selected.
 3. Click the 📋 copy icon next to the address.
 
-You now have something like `https://github.com/AperionAI-2026/M1-W1-Lab01-B02-<your-username>.git` on your clipboard. **That address is yours** — the `<your-username>` part is what makes it yours, so use your own and not a classmate's.
+You now have something like `https://github.com/AperionAI-2026/M1-W1-Lab01-<your-username>.git` on your clipboard. **That address is yours** — the `<your-username>` part is what makes it yours, so use your own and not a classmate's.
 
 ### 1.3 Clone it into `Week1/Lab01`
 
@@ -75,7 +75,7 @@ git clone PASTE-YOUR-REPO-URL-HERE Lab01
 cd Lab01
 ```
 
-That last word — `Lab01` — matters. Without it, git would name the folder after the repo (`M1-W1-Lab01-B02-your-username`), which is long, has your username buried in it, and does not match the rest of the course. Adding `Lab01` tells git what to call the folder.
+That last word — `Lab01` — matters. Without it, git would name the folder after the repo (`M1-W1-Lab01-your-username`), which is long, has your username buried in it, and does not match the rest of the course. Adding `Lab01` tells git what to call the folder.
 
 > **`git` is not recognised?** Install it from [git-scm.com/downloads](https://git-scm.com/downloads), accept every default, then **close and reopen your terminal** and try again.
 >
